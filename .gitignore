@@ -2,6 +2,9 @@
 trae_secrets.json
 auths.json
 checkin.log
+workbuddy_secrets.json
+
+# 注意：wb_state.json（WorkBuddy 续期状态，AES-GCM 密文）需要提交回仓库，勿加入忽略
 
 # 本地环境
 .venv/
